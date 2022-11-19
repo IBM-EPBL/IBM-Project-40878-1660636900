@@ -13,6 +13,9 @@ NARMATHA - Team Member 2
 
 VIGNESH - Team Member 3
 
+
+
+
 IDEATION PHASE
 
   *Brainstorming and ideation phase
@@ -23,6 +26,9 @@ IDEATION PHASE
   
   *Problem statement
   
+
+
+
 DESIGN PHASE-I
 
   *Problem solution fit
@@ -41,12 +47,19 @@ DESIGN PHASE-II
   
   *Technolgy Architecture
   
+
+
+
+
 PROJECT PLANNING PHASE
 
   *Prepare milestone and Activity list
   
   *Sprint delivery plan
   
+
+
+
 PROJECT DESIGN AND PLANNING
 
   *Ideation phase
